@@ -1,0 +1,18 @@
+.announcement{
+    background-color: cadetblue;
+    font-weight: bolder;
+    font-size:22px;
+}
+#my_nav_bar{
+    position: sticky;
+    top:0;
+    z-index: 999999;
+}
+#video{
+    width:100%;
+}
+#container{
+    border:10px solid black;
+    margin-left:10px;
+    margin-right:10px;
+}
